@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageactivity/imageactivity.iml" filepath="$PROJECT_DIR$/imageactivity/imageactivity.iml" group="FinalProject/imageactivity" />
+      <module fileurl="file://$PROJECT_DIR$/javaJokes/javaJokes.iml" filepath="$PROJECT_DIR$/javaJokes/javaJokes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jokedisplay/jokedisplay.iml" filepath="$PROJECT_DIR$/.idea/modules/jokedisplay/jokedisplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jokesource/jokesource.iml" filepath="$PROJECT_DIR$/.idea/modules/jokesource/jokesource.iml" />
+    </modules>
+  </component>
+</project>
